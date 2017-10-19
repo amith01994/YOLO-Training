@@ -3,13 +3,21 @@ Resources Required to Train YOLO model on a new dataset
 
 Make sure to build directory structure as follows
 
-images\n
-   -----000\n
-   -----001\n
-   -----002\n
+images
+
+   -----000
+   
+   -----001
+   
+   -----002
+   
  
    
-labels\n
-   -----000\n
-   -----001\n
-   -----002\n
+labels
+
+   -----000
+   
+   -----001
+   
+   -----002
+   
